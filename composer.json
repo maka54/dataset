@@ -1,5 +1,5 @@
 {
-    "name": "maka\\dataset",
+    "name": "maka/dataset",
     "description": "Laravel 5 Dataset repository",
     "license": "MIT",
     "authors": [
