@@ -1,0 +1,16 @@
+{
+    "name": "maka\\dataset",
+    "description": "Laravel 5 Dataset repository",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "maka",
+            "email": "54.maka@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Maka\\Dataset\\": "src/"
+        }
+    }
+}
